@@ -3,7 +3,8 @@
 //difficulty-Medium
 // Approach:
 // simple binary search to find the target no. in the Arrays and print its index
-
+//Time complexity-O(logN)
+//Space complexity-O(1)
 
 
 
